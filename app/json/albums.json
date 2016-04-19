@@ -1,0 +1,515 @@
+[
+    {
+        "id": 1,
+        "name": "Inquisition Symphony",
+        "out": "19980401",
+        "track": 
+                [
+                    {
+                        "name": "Harmageddon"
+                    },
+                    {
+                        "name": "From Out of Nowhere"
+                    },
+                    {
+                        "name": "For Whom the Bells Tolls"
+                    },
+                    {
+                        "name": "Nothing Else Matters"
+                    },
+                    {
+                        "name": "Refuse/ Resist"
+                    },
+                    {
+                        "name": "M.B."
+                    },
+                    {
+                        "name": "Inquisition Symphony"
+                    },
+                    {
+                        "name": "Fade to Black"
+                    },
+                    {
+                        "name": "Domination"
+                    },
+                    {
+                        "name": "Toreador"
+                    },
+                    {
+                        "name": "One"
+                    }
+                ],
+        "url": "inquisition-symphony-album--17-.html",
+        "price": 11.99,
+        "image":
+                [
+                    {
+                        "name": "01_apocalyptica_inquisition_symphony.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 2,
+        "name": "Cult",
+        "out": "20000902",
+        "track": 
+                [
+                    {
+                        "name": "Path"
+                    },
+                    {
+                        "name": "Struggle"
+                    },
+                    {
+                        "name": "Romance"
+                    },
+                    {
+                        "name": "Pray!"
+                    },
+                    {
+                        "name": "In Memoriam"
+                    },
+                    {
+                        "name": "Hyperventilation"
+                    },
+                    {
+                        "name": "Beyond Time"
+                    },
+                    {
+                        "name": "Hope"
+                    },
+                    {
+                        "name": "Kaamos"
+                    },
+                    {
+                        "name": "Coma"
+                    },
+                    {
+                        "name": "Hall of the Mountain King"
+                    },
+                    {
+                        "name": "Until It Sleeps"
+                    },
+                    {
+                        "name": "Fight Fire with Fire"
+                    },
+                    {
+                        "name": "Path"
+                    }
+                ],
+        "url": "cult-album--12-.html",
+        "price": 4.33,
+        "image":
+                [
+                    {
+                        "name": "02_apocalyptica_cult.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 3,
+        "name": "Reflections",
+        "out": "20031117",
+        "track": 
+                [
+                    {
+                        "name": "Prologue(Apprehension)[feat. Dave Lombardo]"
+                    },
+                    {
+                        "name": "No Education(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "Faraway"
+                    },
+                    {
+                        "name": "Somewhere Aound Nothing(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "Drive"
+                    },
+                    {
+                        "name": "Čohkka"
+                    },
+                    {
+                        "name": "Conclusion"
+                    },
+                    {
+                        "name": "Resurrection(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "Heat"
+                    },
+                    {
+                        "name": "Cortége(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "Pandemonium"
+                    },
+                    {
+                        "name": "Toreador II"
+                    },
+                    {
+                        "name": "Epilogue(Relief)"
+                    },
+                    {
+                        "name":"Seeman(feat. Nina Hagen)"
+                    },
+                    {
+                        "name": "Faraway Vol.2(feat. Linda and Dave Lombardo)"
+                    },
+                    {
+                        "name": "Delusion"
+                    },
+                    {
+                        "name": "Peridition"
+                    },
+                    {
+                        "name": "Leave Me Alone"
+                    }
+                ],
+        "url": "reflections-album--11-.html",
+        "price": 7.14,
+        "image":
+                [
+                    {
+                        "name": "03_apocalyptica_reflections.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 4,
+        "name": "Apocalyptica",
+        "out": "20050118",
+        "track": 
+                [
+                    {
+                        "name": "Life Burns!"
+                    },
+                    {
+                        "name": "Quutamo"
+                    },
+                    {
+                        "name": "Distraction"
+                    },
+                    {
+                        "name": "Bittersweet"
+                    },
+                    {
+                        "name": "Misconstruction"
+                    },
+                    {
+                        "name": "Fisheye"
+                    },
+                    {
+                        "name": "Farewell"
+                    },
+                    {
+                        "name": "Fatal Error"
+                    },
+                    {
+                        "name": "Betrayal/ Forgiveness"
+                    },
+                    {
+                        "name": "Ruska"
+                    },
+                    {
+                        "name": "Bonustrack Inkl. Deathzone & en Vle"
+                    }
+                ],
+        "url": "apocalyptica-album--10-.html",
+        "price": 12.99,
+        "image":
+                [
+                    {
+                        "name": "04_apocalyptica_apocalyptica.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 5,
+        "name": "Amplified",
+        "out": "20060526",
+        "track": 
+                [
+                    {
+                        "name": "Enter Sandman"
+                    },
+                    {
+                        "name": "Harmageddon"
+                    },
+                    {
+                        "name": "Nothing Else Matters"
+                    },
+                    {
+                        "name": "Refuse/ Resist"
+                    },
+                    {
+                        "name": "Somewhere Aound Nothing"
+                    },
+                    {
+                        "name": "Betrayal/ Forgiveness"
+                    },
+                    {
+                        "name": "Master of Puppets"
+                    },
+                    {
+                        "name": "Hall of the Montain King"
+                    },
+                    {
+                        "name": "One"
+                    },
+                    {
+                        "name": "Heat"
+                    },
+                    {
+                        "name": "Cohkka"
+                    },
+                    {
+                        "name": "Kaamos"
+                    },
+                    {
+                        "name": "Deathzone"
+                    },
+                    {
+                        "name": "Angel of Death"
+                    },
+                    {
+                        "name": "Repressed"
+                    },
+                    {
+                        "name": "Path, Vol.2"
+                    },
+                    {
+                        "name": "Bittersweet"
+                    },
+                    {
+                        "name": "Hope, Vol.2"
+                    },
+                    {
+                        "name": "En Vie"
+                    },
+                    {
+                        "name": "Faraway, Vol.2"
+                    },
+                    {
+                        "name": "Life Burns!"
+                    },
+                    {
+                        "name": "Seeman"
+                    }
+                ],
+        "url": "amplified-a-decade-of-reinventing-th-album--9-.html",
+        "price": 8.19,
+        "image":
+                [
+                    {
+                        "name": "05_apocalyptica_amplified_a_decade_of_reinventing_the_cello.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 6,
+        "name": "Worlds Collide",
+        "out": "20080415",
+        "track": 
+                [
+                    {
+                        "name": "Worlds Collide"
+                    },
+                    {
+                        "name": "Grace(feat. Hotei Tomoyasu)"
+                    },
+                    {
+                        "name": "I'm Not Jesus(feat. Corey Taylor)"
+                    },
+                    {
+                        "name": "Ion"
+                    },
+                    {
+                        "name": "Helden(feat. Till Lindemann)"
+                    },
+                    {
+                        "name": "Stroke"
+                    },
+                    {
+                        "name": "Last Hope(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "I Don't Care (feat. Adam Gontier)"
+                    },
+                    {
+                        "name": "Burn"
+                    },
+                    {
+                        "name": "S.O.S.(Anything But Love)[feat. Cristina Scabbia]"
+                    },
+                    {
+                        "name": "Peace"
+                    }
+                ],
+        "url": "worlds-collide-album--8-.html",
+        "price": 6.99,
+        "image":
+                [
+                    {
+                        "name": "06_apocalyptica_worlds_collide.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 7,
+        "name": "7th Symphony",
+        "out": "20100820",
+        "track": 
+                [
+                    {
+                        "name": "At the Gates of Manala"
+                    },
+                    {
+                        "name": "End of Me(feat. Gavin Rossdale)"
+                    },
+                    {
+                        "name": "Not Strong Enough(feat. Brent Smith)"
+                    },
+                    {
+                        "name": "2010(feat. Dave Lombardo)"
+                    },
+                    {
+                        "name": "Beautiful"
+                    },
+                    {
+                        "name": "Broken Pieces(feat. Lacey)"
+                    },
+                    {
+                        "name": "On the Rooftop With Quasimodo"
+                    },
+                    {
+                        "name": "Bring Them to Light(feat. Joseph Duplantier)"
+                    },
+                    {
+                        "name": "Sacra"
+                    },
+                    {
+                        "name": "Rage of Poseidon"
+                    },
+                    {
+                        "name": "Spiral Architect(iTunes Album Only)"
+                    }
+                ],
+        "url": "7th-symphony-album--7-.html",
+        "price": 6.99,
+        "image":
+                [
+                    {
+                        "name": "07_apocalyptica_7th_symphony.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 8,
+        "name": "Wagner Reloaded",
+        "out": "20131118",
+        "track": 
+                [
+                    {
+                        "name": "Signal"
+                    },
+                    {
+                        "name": "Genesis"
+                    },
+                    {
+                        "name": "Fight Against Monsters"
+                    },
+                    {
+                        "name": "Stormy Wagner"
+                    },
+                    {
+                        "name": "Flying Dutchman"
+                    },
+                    {
+                        "name": "Lullaby"
+                    },
+                    {
+                        "name": "Bubbles"
+                    },
+                    {
+                        "name": "Path in Life"
+                    },
+                    {
+                        "name": "Creation of Notes"
+                    },
+                    {
+                        "name": "Running Love"
+                    },
+                    {
+                        "name": "Birth Pain"
+                    },
+                    {
+                        "name": "Ludwig - Wonderland"
+                    },
+                    {
+                        "name": "Ludwig - Requiem"
+                    },
+                    {
+                        "name": "Destruction"
+                    }
+                ],
+        "url": "wagner-reloaded-live-in-leipzig-album--6-.html",
+        "price": 11.99,
+        "image":
+                [
+                    {
+                        "name": "08_apocalyptica_wagner_reloaded.jpg"
+                    }
+                ]
+    },
+    {
+        "id": 9,
+        "name": "Shadowmaker",
+        "out": "20150417",
+        "track": 
+                [
+                    {
+                        "name": "I-III-V-Seed of Chaos"
+                    },
+                    {
+                        "name": "Cold Blood"
+                    },
+                    {
+                        "name": "Shadowmaker"
+                    },
+                    {
+                        "name": "Slowburn"
+                    },
+                    {
+                        "name": "Hole in My Soul"
+                    },
+                    {
+                        "name": "House of Chains"
+                    },
+                    {
+                        "name": "Riot Lights"
+                    },
+                    {
+                        "name": "Sea Song (You Waded Out)"
+                    },
+                    {
+                        "name": "Till Death Do Us Part"
+                    },
+                    {
+                        "name": "Dead Man's Eyes"
+                    }
+                ],
+        "url": "shadowmaker-album--37-.html",
+        "price": 13.99,
+        "image":
+                [
+                    {
+                        "name": "09_apocalyptica_shadowmaker.jpg"
+                    },
+                    {
+                        "name": "09_apocalyptica_shadowmaker_2.jpg"
+                    }
+                ]
+    }
+]

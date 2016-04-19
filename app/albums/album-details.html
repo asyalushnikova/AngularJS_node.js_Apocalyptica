@@ -1,0 +1,29 @@
+<div>
+    <a href="#/albums">Go Back</a>
+    <br><br> 
+    <div class="col-md-4">
+        <img class="img-main" ng-src="img/details/{{mainImage}}" alt="vs_img"/>
+        <br><br>
+        <div class="row">
+            <div ng-repeat="image in album.image | limitTo:2">
+                <div class="col-md-4">
+                    <img class="img-dtls" ng-src="img/details/{{image.name}}" ng-click="setImage(image)">
+                </div>
+            </div>
+        </div>
+        <h5>{{album.out | date:'longDate'}}</h5>
+    </div>
+    <div class="col-md-8">
+        <div>
+            <h3>{{album.name}}</h3>
+            <div ng-repeat="track in album.track">
+                <p>[{{$index + 1}}] <b>::</b> {{track.name}}</p>
+            </div>
+            <div class="col-md-4">
+                <h4>{{album.price | currency}}</h4>
+            </div>
+            <div class="col-md-2">
+                <a class="btn btn-primary btn-block" href="http://www.apocalyptica.com/en/music/{{album.url}}">to Listen...</a>
+            </div>
+        </div> 
+    </div>

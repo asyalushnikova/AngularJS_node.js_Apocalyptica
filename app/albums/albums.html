@@ -1,0 +1,10 @@
+<div class="row albums">
+    <div ng-repeat="album in albums">
+        <div class="col-md-4">
+            <h3>{{album.name}}</h3>
+            <img ng-src="img/{{album.image[0].name}}" alt="vs_img"/>
+            <h4>{{album.price | currency}}</h4>
+            <a class="btn btn-primary btn-block" href="#/albums/{{album.id}}">Details</a>
+        </div>
+    </div>   
+</div>
